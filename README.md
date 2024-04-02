@@ -1,2 +1,1 @@
 # Csharp
-C# harjoittelua
